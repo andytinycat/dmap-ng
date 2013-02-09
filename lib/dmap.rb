@@ -8,7 +8,6 @@ end
 Dir[File.dirname(__FILE__) + "/dmap/**.rb"].each { |f| require f }
 
 require 'true_false_ext'
-require 'debug_ext'
 
 class DMAP
   class << self
