@@ -27,7 +27,6 @@ Gem::Specification.new do |s|
      "VERSION",
      "bin/dmap",
      "dmap-ng.gemspec",
-     "lib/debug_ext.rb",
      "lib/dmap-ng.rb",
      "lib/dmap.rb",
      "lib/dmap/parser.rb",
